@@ -5,9 +5,22 @@
 <ul>
 	<li>copy lalu paste file .env.example dan rename nama file menjadi .env</li>
 	<li>masukan konfigurasi database anda di file .env</li>
-	<li>ketikan perintah di terminal anda <i>php artisan migrate</i></li>
-	<li>setelah melakukan migration , lakukan perintah <i>php artisan db:seed</i></li>
+	<li>ketikan perintah di terminal anda <i><b>php artisan migrate</b></i></li>
+	<li>setelah melakukan migration , lakukan perintah <i><b>php artisan db:seed</b></i></li>
 	<li>Setelah semua perintah selesai di lakukan , Aplikasi Siap untuk digunakan</li>
+</ul>
+
+<h2>Fitur Aplikasi</h2>
+<p>Aplikasi ini memiliki beberapa fitur.</p>
+
+<ul>
+	<li>Framework Bootstrap 4</li>
+	<li>Import Data Siswa berbasis file excel</li>
+	<li>Export Data Siswa berbasis file excel</li>
+	<li>Search Engine</li>
+	<li>Grafik berdasarkan jumlah Data Siswa</li>
+	<li>Send Email ke seluruh Data Siswa</li>
+	<li>Sorting Data Siswa berdasarkan kelas atau jurusan</li>
 </ul>
 
 
