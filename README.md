@@ -1,11 +1,15 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<h2>Aplikasi Pengelolaan Data Siswa</h2>
+<p>Aplikasi ini dirancang menggunakan Framework PHP Laravel versi 7. Aplikasi ini dibuat untuk dapat memudahkan pengelolaan data Siswa yang ada di Sekolah. Aplikasi ini ditujukan untuk Staff TU Sekolah.</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<p><b>NOTE: lakukan perintah berikut , sebelum menjalankan Aplikasi</b></p>
+<ul>
+	<li>copy lalu paste file .env.example dan rename nama file menjadi .env</li>
+	<li>masukan konfigurasi database anda di file .env</li>
+	<li>ketikan perintah di terminal anda <i>php artisan migrate</i></li>
+	<li>setelah melakukan migration , lakukan perintah <i>php artisan db:seed</i></li>
+	<li>Setelah semua perintah selesai di lakukan , Aplikasi Siap untuk digunakan</li>
+</ul>
+
 
 ## About Laravel
 
